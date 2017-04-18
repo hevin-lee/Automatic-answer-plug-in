@@ -5,7 +5,7 @@
 #答题插件环境
 答题插件可以安装到chrome核心的浏览器扩展上即可（由于chrome浏览器限制了非商店应用权限，建议使用淘宝浏览器）
 #插件下载地址
-<a href="http://pan.baidu.com/s/1ntKJwPb" target="_blank">中华会计网继续教育自动答题插件/助手 百度网盘下载</a>
+<a href="http://pan.baidu.com/s/1qXMmjt6" target="_blank">中华会计网继续教育自动答题插件/助手 百度网盘下载</a>
 #作者
 by 2015-5-20 hevin 
 
